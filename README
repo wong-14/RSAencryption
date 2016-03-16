@@ -87,5 +87,3 @@ How to verify that steps are working correctly:
 	2)	Check to see if the blocked file and decrypted file are the same except for padding on last line
 	
 	3)	Check if the original message and output message from entire process is the same.
-	
- a blocking length of 8 in reasonable time.
